@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Prathamesh\\Personal\\Project\\News-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|c:\\prathamesh\\personal\\project\\news-api\\news-api\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|solutionrelative:news-api\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|c:\\prathamesh\\personal\\project\\news-api\\news-api\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|solutionrelative:news-api\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|c:\\prathamesh\\personal\\project\\news-api\\news-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|solutionrelative:news-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|c:\\prathamesh\\personal\\project\\news-api\\news-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|solutionrelative:news-api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|c:\\prathamesh\\personal\\project\\news-api\\news-api\\news-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|solutionrelative:news-api\\news-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|c:\\prathamesh\\personal\\project\\news-api\\news-api\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|solutionrelative:news-api\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pshety1\\AppData\\Local\\Temp\\.vsdbgsrc\\b4fae057d8404ebcdd65cb600c2823e1976bc7b02cc2073255e2f4ac3931301d\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|c:\\prathamesh\\personal\\project\\news-api\\news-api\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|solutionrelative:news-api\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|c:\\prathamesh\\personal\\project\\news-api\\news-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|solutionrelative:news-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|c:\\prathamesh\\personal\\project\\news-api\\news-api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B26C864-AF10-4544-8472-32B283ABF256}|News-API\\News-API.csproj|solutionrelative:news-api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\NewsService.cs",
+              "RelativeDocumentMoniker": "News-API\\NewsService.cs",
+              "ToolTip": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\NewsService.cs",
+              "RelativeToolTip": "News-API\\NewsService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:09:04.528Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\News.cs",
+              "RelativeDocumentMoniker": "News-API\\News.cs",
+              "ToolTip": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\News.cs",
+              "RelativeToolTip": "News-API\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:25:41.372Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pshety1\\AppData\\Local\\Temp\\.vsdbgsrc\\b4fae057d8404ebcdd65cb600c2823e1976bc7b02cc2073255e2f4ac3931301d\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\pshety1\\AppData\\Local\\Temp\\.vsdbgsrc\\b4fae057d8404ebcdd65cb600c2823e1976bc7b02cc2073255e2f4ac3931301d\\Program.cs",
+              "ToolTip": "C:\\Users\\pshety1\\AppData\\Local\\Temp\\.vsdbgsrc\\b4fae057d8404ebcdd65cb600c2823e1976bc7b02cc2073255e2f4ac3931301d\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\pshety1\\AppData\\Local\\Temp\\.vsdbgsrc\\b4fae057d8404ebcdd65cb600c2823e1976bc7b02cc2073255e2f4ac3931301d\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvw4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:26:30.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\INewsService.cs",
+              "RelativeDocumentMoniker": "News-API\\INewsService.cs",
+              "ToolTip": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\INewsService.cs",
+              "RelativeToolTip": "News-API\\INewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:05:08.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\appsettings.json",
+              "RelativeDocumentMoniker": "News-API\\appsettings.json",
+              "ToolTip": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\appsettings.json",
+              "RelativeToolTip": "News-API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T14:58:08.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "News-API.http",
+              "DocumentMoniker": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\News-API.http",
+              "RelativeDocumentMoniker": "News-API\\News-API.http",
+              "ToolTip": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\News-API.http",
+              "RelativeToolTip": "News-API\\News-API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-14T14:57:56.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "News-API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\WeatherForecast.cs",
+              "RelativeToolTip": "News-API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:51:12.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\Program.cs",
+              "RelativeDocumentMoniker": "News-API\\Program.cs",
+              "ToolTip": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\Program.cs",
+              "RelativeToolTip": "News-API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:41:53.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "News-API\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "News-API\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:39:54.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "News-API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Prathamesh\\Personal\\Project\\News-API\\News-API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "News-API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T14:38:33.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
